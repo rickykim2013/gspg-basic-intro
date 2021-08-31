@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/rickykim2013.lwc-kt09llgl-fork-kt09rumr",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve dMoSTkzciDDopmS3QW59 --open"
+  }
+}
